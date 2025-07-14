@@ -45,12 +45,18 @@ Creamos el entorno virtual, si es Windows como mi caso:
 python -m venv mi_entorno
 ```
 En linux o macOS:
+```bash
 python3 -m venv mi_entorno
+```
 Activamos el entorno: 
 Windows: 
+``` bash
 mi_entorno\Scripts\activate.bat
+```
 Linux o macOS:
+``` bash
 source mi_entorno/bin/activate
+```
 Ya en el entorno virtual activado, procedemos a instalar las dependencias:
 
 ```bash
