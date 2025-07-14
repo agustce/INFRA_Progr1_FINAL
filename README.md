@@ -28,6 +28,7 @@ proyecto/
 ├── main.py                         # Interfaz de usuario por consola
 └── log.log                         # Archivo de log generado automáticamente
 ```
+A su vez se suma dos archivos .html que contienen los graficos creados para estructurar el programa y el arbol de decision. 
 
 ## Requisitos
 
