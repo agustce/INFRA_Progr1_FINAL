@@ -41,7 +41,9 @@ proyecto/
 Instalación de dependencias:
 
 Creamos el entorno virtual, si es Windows como mi caso: 
+```bash
 python -m venv mi_entorno
+```
 En linux o macOS:
 python3 -m venv mi_entorno
 Activamos el entorno: 
